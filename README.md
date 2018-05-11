@@ -17,7 +17,9 @@ In this problem, I have build a predictive model which predicts if loan will be 
 
 >Number of all training points
 
->Checking the features.
+>Exploring the target column
+
+>Checking the features. Using subset of features for training the model.
 
 >Ploting using library matplotlib
 
